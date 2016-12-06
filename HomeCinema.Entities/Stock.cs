@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeCinema.Entities
 {
-    class Stock : IEntityBase
+    public class Stock : IEntityBase
     {
         public Stock()
         {

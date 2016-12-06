@@ -1,0 +1,14 @@
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.InitialMigration.resources
+D:\Study\GitProject\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache

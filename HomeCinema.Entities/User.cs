@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeCinema.Entities
 {
-    class User : IEntityBase
+    public class User : IEntityBase
     {
         public User()
         {

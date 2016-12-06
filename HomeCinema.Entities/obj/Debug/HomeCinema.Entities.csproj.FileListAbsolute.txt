@@ -1,0 +1,4 @@
+D:\Study\GitProject\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\Study\GitProject\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\Study\GitProject\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb

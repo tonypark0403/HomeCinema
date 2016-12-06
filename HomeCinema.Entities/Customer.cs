@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HomeCinema.Entities
 {
-    class Customer : IEntityBase
+    public class Customer : IEntityBase
     {
         public int ID { get; set; }
         public string FirstName { get; set; }

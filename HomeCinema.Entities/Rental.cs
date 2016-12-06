@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace HomeCinema.Entities
 {
-    class Rental : IEntityBase
+    public class Rental : IEntityBase
     {
         public int ID { get; set; }
         public int CustomerId { get; set; }
+        //why no need Customer?
+        //public virtual Customer Customer { get; set; }
         public int StockId { get; set; }
         public virtual Stock Stock { get; set; }
         public DateTime RentalDate { get; set; }
